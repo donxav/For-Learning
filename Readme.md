@@ -14,16 +14,16 @@ Current Projects:
     
 
 How to Run These Projects 🚀
-  Clone this repo:
-  git clone https://github.com/your-username/python-projects.git
+  - Clone this repo:
+      - git clone https://github.com/your-username/python-projects.git
      
- cd For-Learning
+- cd For-Learning
 
-Pick a project folder and navigate to it:
-cd project-folder-name
+- Pick a project folder and navigate to it:
+    - cd project-folder-name
 
-Run the Python script for the project:
-    python3 script_name.py
+- Run the Python script for the project:
+ - python3 script_name.py
 
 What I'm Hoping to Learn 🧠
 - Getting more comfortable with Python syntax and libraries.
