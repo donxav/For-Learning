@@ -9,18 +9,18 @@ You'll find a random assortment of Python scripts and mini-projects here. I'm tr
 
 Current Projects:
     
-    Guess the Word 🎲: A simple word guessing game.
+- Guess the Word 🎲: A simple word guessing game.
 
     
 
 How to Run These Projects 🚀
   Clone this repo:
-     git clone https://github.com/your-username/python-projects.git
+  git clone https://github.com/your-username/python-projects.git
      
  cd For-Learning
 
 Pick a project folder and navigate to it:
-    cd project-folder-name
+cd project-folder-name
 
 Run the Python script for the project:
     python3 script_name.py
