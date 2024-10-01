@@ -14,42 +14,36 @@ Current Projects:
     
 
 How to Run These Projects 🚀
-
-    Clone this repo:
-    git clone https://github.com/your-username/python-projects.git
-    cd For-Learning
+  Clone this repo:
+     git clone https://github.com/your-username/python-projects.git
+     
+ cd For-Learning
 
 Pick a project folder and navigate to it:
-
-
-
-cd project-folder-name
+    cd project-folder-name
 
 Run the Python script for the project:
-
-
     python3 script_name.py
 
 What I'm Hoping to Learn 🧠
-
-    Getting more comfortable with Python syntax and libraries.
-    Building small, working projects from scratch.
-    Learning how to handle user input and interact with external data (like APIs).
-    Developing basic skills with control flow and data structures.
-    Exploring beginner-level OOP (Object-Oriented Programming).
+- Getting more comfortable with Python syntax and libraries.
+- Building small, working projects from scratch.
+- Learning how to handle user input and interact with external data (like APIs).
+- Developing basic skills with control flow and data structures.
+- Exploring beginner-level OOP (Object-Oriented Programming).
 
 Got Feedback? 💬
 
 If you're checking out this repo and have some feedback or ideas, I'd love to hear them! Open an issue or submit a pull request if you want to suggest something.
 
-Since I'm still learning, any constructive criticism or tips are greatly appreciated.
-Future Plans 🛠️
+Since I'm still learning, I would greatly appreciate any constructive criticism or tips.
 
+Future Plans 🛠️
 Here are some things I might add as I keep learning:      
-    Weather CLI: A command-line tool to fetch the current weather for a given city using an API.
-    A basic web app using Flask or Django.
-    Some fun with data science using pandas or matplotlib.
-    More advanced game mechanics for the word Guesser.
+- Weather CLI: A command-line tool to fetch the current weather for a given city using an API.
+- A basic web app using Flask or Django. 
+- Some fun with data science using pandas or matplotlib.
+- More advanced game mechanics for the word Guesser.
 
 Stay tuned!
 
